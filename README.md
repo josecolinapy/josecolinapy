@@ -106,7 +106,6 @@ Me interesa construir soluciones **mantenibles, seguras, resilientes y observabl
   <sub>Grafana · Prometheus · Elasticsearch · OpenTelemetry</sub>
 </p>
 
-> Los iconos provienen de [Devicon](https://github.com/devicons/devicon) y se sirven mediante [jsDelivr](https://www.jsdelivr.com/), una CDN que entrega los SVG con el tipo de contenido correcto.
 
 ### Resumen de especialidades
 
