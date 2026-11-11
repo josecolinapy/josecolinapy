@@ -33,7 +33,10 @@ Me interesa construir soluciones **mantenibles, seguras, resilientes y observabl
 
 ## 🛠️ Stack tecnológico
 
+### Ecosistemas backend
 
+- **Spring Boot:** Java, Spring Boot y Spring Framework.
+- **.NET:** C#, .NET Core, .NET 6 y .NET 10.
 
 ### Backend y lenguajes
 
