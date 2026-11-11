@@ -111,7 +111,7 @@ Me interesa construir soluciones **mantenibles, seguras, resilientes y observabl
 
 | Área | Tecnologías y prácticas |
 | --- | --- |
-| **Backend** | Java 8/11/17/21, Spring Boot, Spring Framework, C#, .NET Core / .NET 6, Python |
+| **Backend** | Java 8/11/17/21/25, Spring Boot, Spring Framework, C#, .NET Core / .NET 6/.NET 10, Python |
 | **Frontend** | Angular, TypeScript, JavaScript |
 | **Arquitectura** | Microservicios, SOA, REST, SOAP, integración orientada a eventos, resiliencia |
 | **Datos** | PostgreSQL, Oracle, SQL, migración y modelado de datos |
